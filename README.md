@@ -1,5 +1,8 @@
 # Diffusion Process Length and Inference Algorithm — Reproducibility Package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21320562.svg)](https://doi.org/10.5281/zenodo.21320562)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Code, configurations, seeds, metrics and figure-generation scripts for:
 
 > I. A. Kistin, Sh. M. Isaev. *Diffusion Process Length and Inference Algorithm in
@@ -151,6 +154,24 @@ python scripts/export_samples.py --dataset cifar --anchor --sampler ddim --steps
 * The conditional/classifier-free-guidance experiment (Section 7 of the paper) is auxiliary.
   Its feature-space distance is a random-projection proxy, not an Inception FID, and is
   reported only qualitatively.
+
+## Citing this package
+
+Archived version of record (release v1.0.1): <https://doi.org/10.5281/zenodo.21320562>
+
+```bibtex
+@software{kistin_isaev_2026_diffusion_length,
+  author    = {Kistin, I. A. and Isaev, Sh. M.},
+  title     = {Code and metrics for "Diffusion Process Length and Inference
+               Algorithm in Denoising-Diffusion Image Synthesis: A Controlled
+               Empirical Study on MNIST and CIFAR-10"},
+  year      = {2026},
+  version   = {v1.0.1},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21320562},
+  url       = {https://doi.org/10.5281/zenodo.21320562}
+}
+```
 
 ## License
 
