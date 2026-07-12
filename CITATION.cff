@@ -11,10 +11,10 @@ authors:
   - family-names: Isaev
     given-names: Sh. M.
 license: MIT
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-07-11
-repository-code: 'https://github.com/<ORG>/<REPO>'   # TODO: insert final URL
-doi: '10.5281/zenodo.XXXXXXX'                        # TODO: insert Zenodo DOI
+repository-code: 'https://github.com/i-SAVE/diffusion-length-inference-tvc'
+doi: '10.5281/zenodo.21320562'
 preferred-citation:
   type: article
   authors:
