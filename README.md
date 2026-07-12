@@ -54,28 +54,21 @@ OK: every value in Tables 1-3 matches the released metric files.
 │   ├── cifar/cifar_table1_*.json     Table 2
 │   ├── cifar/cifar_table2_*.json     Table 3
 │   └── logs/                         full Kaggle session logs of the reported runs
-└── figures/                          Figs. 1-10 (Figs. 3/4/7 also as vector EPS)
+└── figures/                          Fig3, Fig4, Fig7 (EPS vector + 600 dpi PNG)
 ```
 
 ## Figure / table → source mapping
 
-| Item in the paper | Figure file(s) | Produced by |
-|---|---|---|
-| Fig. 1 (training loss, five MNIST models) | `figures/Fig1.png` | `notebooks/mnist_original_experiments.ipynb`, part 1 |
-| Fig. 2 (MNIST samples across T) | `figures/Fig2.png` | `notebooks/mnist_original_experiments.ipynb`, part 1 |
-| Table 1, Fig. 3 (MNIST FID vs T, 3 budgets × 3 seeds) | `figures/Fig3.png` / `.eps` | `scripts/run_mnist_sweep.py` → `results/mnist/budget_sweep.json` → `scripts/make_figures.py` |
-| Table 2, Fig. 4 (CIFAR-10 FID vs T, 2 seeds) | `figures/Fig4.png` / `.eps` | `scripts/run_cifar_experiments.py` (Experiment A) → `results/cifar/cifar_table1_fid_variance.json` → `scripts/make_figures.py` |
-| Fig. 5 (DDPM step reduction, MNIST) | `figures/Fig5.png` | `notebooks/mnist_original_experiments.ipynb`, part 2 |
-| Fig. 6 (DDIM at 50 steps, MNIST) | `figures/Fig6.png` | `notebooks/mnist_original_experiments.ipynb`, part 2 |
-| Table 3, Fig. 7 (DDPM vs DDIM across steps, CIFAR-10) | `figures/Fig7.png` / `.eps` | `scripts/run_cifar_experiments.py` (Experiment B) → `results/cifar/cifar_table2_sampler_fid.json` → `scripts/make_figures.py` |
-| Fig. 8 (intermediate reverse-process states) | `figures/Fig8.png` | `notebooks/mnist_original_experiments.ipynb`, part 3 |
-| Fig. 9 (UMAP projections, Section 7) | `figures/Fig9.png` | `notebooks/mnist_original_experiments.ipynb`, part 5 |
-| Fig. 10 (classifier-free guidance, Section 7) | `figures/Fig10.png` | `notebooks/mnist_original_experiments.ipynb`, part 6 |
-| Table 4 (positioning) | — | narrative table, no computation |
-
-Figs. 1, 2, 5, 6, 8, 9, 10 are the authors' original outputs (PNG only, as produced
-for the manuscript). Figs. 3, 4 and 7 are regenerated from `results/` and are the
-only ones also shipped as vector EPS, per the journal's artwork specification.
+| Item in the paper | Produced by |
+|---|---|
+| Table 1, Fig. 3 (MNIST FID vs T, 3 budgets × 3 seeds) | `scripts/run_mnist_sweep.py` → `results/mnist/budget_sweep.json` → `scripts/make_figures.py` |
+| Table 2, Fig. 4 (CIFAR-10 FID vs T, 2 seeds) | `scripts/run_cifar_experiments.py` (Experiment A) → `results/cifar/cifar_table1_fid_variance.json` |
+| Table 3, Fig. 7 (DDPM vs DDIM across steps) | `scripts/run_cifar_experiments.py` (Experiment B) → `results/cifar/cifar_table2_sampler_fid.json` |
+| Figs. 1–2 (loss, samples of the five MNIST models) | `notebooks/mnist_original_experiments.ipynb`, part 1 |
+| Figs. 5–6 (DDPM step reduction vs DDIM, MNIST) | `notebooks/mnist_original_experiments.ipynb`, part 2 |
+| Fig. 8 (intermediate states) | `notebooks/mnist_original_experiments.ipynb`, part 3 |
+| Figs. 9–10, Section 7 (conditional, UMAP, guidance) | `notebooks/mnist_original_experiments.ipynb`, parts 4–6 |
+| Table 4 (positioning) | narrative table, no computation |
 
 **Note on the conditional model (Section 7).** It is a *separate* diffusers
 `UNet2DConditionModel` (cross-attention label conditioning) trained with the *standard linear
