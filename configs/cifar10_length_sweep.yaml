@@ -1,0 +1,28 @@
+# CIFAR-10: diffusion-length sweep (Table 2 / Fig. 4) - preset LIGHT, as used in the paper
+experiment: cifar10_length_sweep
+preset: LIGHT
+dataset:      {name: CIFAR-10, images: 50000, size: [32, 32], channels: 3, range: [-1, 1]}
+schedule:
+  type: linear
+  beta_1: 1.0e-4
+  target_alpha_bar_T: 1.0e-3
+  beta_T: binary_search
+model:
+  name: CIFARUNet
+  encoder_channels: [3, 64, 128, 256]
+  time_embedding: {type: sinusoidal, dim: 128, mlp_out: 256, activation: SiLU}
+training:
+  optimiser: Adam
+  lr: 2.0e-4
+  batch_size: 64
+  epochs: 30
+  precision: amp   # automatic mixed precision on CUDA
+sweep:
+  step_counts: [200, 500, 1000]
+  seeds: [0, 1]
+evaluation:
+  metric: FID
+  features: inception_v3_pool_2048
+  n_real: 2000
+  n_generated: 2000
+  sqrt_term: eigendecomposition (symmetrised covariances, negative eigenvalues clipped)

@@ -1,0 +1,28 @@
+# MNIST: diffusion-length sweep under matched terminal noise (Table 1 / Fig. 3)
+experiment: mnist_budget_sweep
+dataset:      {name: MNIST, images: 60000, size: [28, 28], channels: 1, range: [-1, 1]}
+schedule:
+  type: linear
+  beta_1: 1.0e-4
+  target_alpha_bar_T: 1.0e-3     # matched terminal signal retention, identical for every T
+  beta_T: binary_search           # 100 iterations, bracket [beta_1, 0.999]
+model:
+  name: SimpleUNet
+  encoder_channels: [1, 32, 64, 128]
+  time_embedding: {type: sinusoidal, dim: 128, mlp_layers: 2, activation: SiLU}
+training:
+  optimiser: Adam
+  lr: 2.0e-4
+  batch_size: 128
+  precision: fp32
+  checkpoints_epochs: [10, 30, 60]   # model trains once to 60; FID evaluated at each
+sweep:
+  step_counts: [100, 200, 400, 700, 1000]
+  seeds: [0, 1, 2]
+evaluation:
+  metric: FID
+  features: inception_v3_pool_2048   # fc replaced by Identity
+  n_real: 3000
+  n_generated: 3000
+  sampler: DDPM (full T steps)
+determinism: {cudnn_benchmark: false, cudnn_deterministic: true}

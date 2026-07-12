@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: >-
+  Code and metrics for "Diffusion Process Length and Inference Algorithm in
+  Denoising-Diffusion Image Synthesis: A Controlled Empirical Study on MNIST
+  and CIFAR-10"
+message: If you use this software or the released metrics, please cite the article.
+type: software
+authors:
+  - family-names: Kistin
+    given-names: I. A.
+  - family-names: Isaev
+    given-names: Sh. M.
+license: MIT
+version: 1.0.0
+date-released: 2026-07-11
+repository-code: 'https://github.com/<ORG>/<REPO>'   # TODO: insert final URL
+doi: '10.5281/zenodo.XXXXXXX'                        # TODO: insert Zenodo DOI
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Kistin
+      given-names: I. A.
+    - family-names: Isaev
+      given-names: Sh. M.
+  title: >-
+    Diffusion Process Length and Inference Algorithm in Denoising-Diffusion
+    Image Synthesis: A Controlled Empirical Study on MNIST and CIFAR-10
+  journal: The Visual Computer
+  year: 2026

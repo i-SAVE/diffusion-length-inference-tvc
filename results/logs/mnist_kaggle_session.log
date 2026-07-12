@@ -1,0 +1,281 @@
+[{"stream_name":"stderr","time":6.516221629,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.516281495,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.51628604,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.516288469,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.076037218,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.076068196,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.076073164,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.076076831,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":8.296599416,"data":"Installing CUDA 12.6 PyTorch wheels so Pascal GPUs (e.g. P100, sm_60) work on Kaggle.\n"}
+,{"stream_name":"stdout","time":11.834630903,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 23.7/23.7 MB 289.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":12.036612437,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 23.7/23.7 MB 289.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":12.043409143,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 897.7/897.7 kB 332.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":12.245716852,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 897.7/897.7 kB 332.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":12.350111312,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.9/8.9 MB 330.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":12.552649941,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.9/8.9 MB 330.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":14.785221691,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 706.8/706.8 MB 275.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":14.9876196,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 706.8/706.8 MB 275.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.702109575,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 393.1/393.1 MB 256.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":18.904117491,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 393.1/393.1 MB 256.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":20.92555491,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 200.2/200.2 MB 230.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":21.127373663,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 200.2/200.2 MB 230.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":21.983763927,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 56.3/56.3 MB 246.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":22.185548416,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 56.3/56.3 MB 246.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":23.0997312,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 158.2/158.2 MB 267.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":23.301951083,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 158.2/158.2 MB 267.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":24.658624504,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 216.6/216.6 MB 269.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":24.860901711,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 216.6/216.6 MB 269.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":26.913737657,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 287.2/287.2 MB 259.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":27.115909862,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 287.2/287.2 MB 259.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.293804922,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 322.4/322.4 MB 260.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.495980361,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 322.4/322.4 MB 260.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":30.503036001,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 89.3/89.3 kB 322.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":30.705069619,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 89.3/89.3 kB 322.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":30.862687532,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 19.7/19.7 MB 262.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.064579039,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 19.7/19.7 MB 262.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.169275732,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 251.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.371689628,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 251.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.760113795,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 821.8/821.8 MB 148.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.820376143,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.4/7.4 MB 247.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.861335182,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.5/3.5 MB 246.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.963090994,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 821.8/821.8 MB 148.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.963116149,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.4/7.4 MB 247.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.96313429,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.5/3.5 MB 246.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":38.409429547,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 155.6/155.6 MB 247.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":38.614947198,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 155.6/155.6 MB 247.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":38.852538701,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.1/7.1 MB 16.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":38.870316027,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 325.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":38.981361108,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.3/6.3 MB 63.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":38.99456232,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.6/44.6 kB 277.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.017168886,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 203.4/203.4 kB 246.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.03094728,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 134.9/134.9 kB 297.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.054588215,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.1/7.1 MB 16.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.054606973,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 325.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.054613299,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.3/6.3 MB 63.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.054618542,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.6/44.6 kB 277.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.054623413,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 203.4/203.4 kB 246.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.054628334,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 134.9/134.9 kB 297.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.064663052,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 96.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.194030193,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.6/16.6 MB 167.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.219731853,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 536.2/536.2 kB 318.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.26647557,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 96.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.266505569,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.6/16.6 MB 167.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":39.266511477,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 536.2/536.2 kB 318.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stderr","time":187.848691346,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":187.848746887,"data":"bigframes 2.39.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":187.848754929,"data":"google-adk 1.29.0 requires google-cloud-bigquery-storage\u003e=2.0.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":187.848761301,"data":"ydata-profiling 4.18.4 requires numpy\u003c2.4,\u003e=1.22, but you have numpy 2.4.4 which is incompatible.\n"}
+,{"stream_name":"stderr","time":187.848767783,"data":"google-colab 1.0.0 requires jupyter-server==2.14.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":187.848773448,"data":"google-colab 1.0.0 requires pandas==2.2.2, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":187.848778846,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":187.848784234,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stderr","time":187.848789999,"data":"numba 0.60.0 requires numpy\u003c2.1,\u003e=1.22, but you have numpy 2.4.4 which is incompatible.\n"}
+,{"stream_name":"stderr","time":187.848806243,"data":"gcsfs 2025.3.0 requires fsspec==2025.3.0, but you have fsspec 2026.4.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":187.848811161,"data":"gradio 5.50.0 requires pillow\u003c12.0,\u003e=8.0, but you have pillow 12.2.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058683607,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":188.058715539,"data":"bigframes 2.39.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":188.058734707,"data":"google-adk 1.29.0 requires google-cloud-bigquery-storage\u003e=2.0.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":188.058740227,"data":"ydata-profiling 4.18.4 requires numpy\u003c2.4,\u003e=1.22, but you have numpy 2.4.4 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058746052,"data":"google-colab 1.0.0 requires jupyter-server==2.14.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058761422,"data":"google-colab 1.0.0 requires pandas==2.2.2, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058765103,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058769046,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058777506,"data":"numba 0.60.0 requires numpy\u003c2.1,\u003e=1.22, but you have numpy 2.4.4 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058780401,"data":"gcsfs 2025.3.0 requires fsspec==2025.3.0, but you have fsspec 2026.4.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058782802,"data":"gradio 5.50.0 requires pillow\u003c12.0,\u003e=8.0, but you have pillow 12.2.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058785214,"data":"\n"}
+,{"stream_name":"stderr","time":188.058787469,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":188.058790044,"data":"bigframes 2.39.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":188.058794393,"data":"google-adk 1.29.0 requires google-cloud-bigquery-storage\u003e=2.0.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":188.058796879,"data":"ydata-profiling 4.18.4 requires numpy\u003c2.4,\u003e=1.22, but you have numpy 2.4.4 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058799309,"data":"google-colab 1.0.0 requires jupyter-server==2.14.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058801678,"data":"google-colab 1.0.0 requires pandas==2.2.2, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058804144,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058806712,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.05882122,"data":"numba 0.60.0 requires numpy\u003c2.1,\u003e=1.22, but you have numpy 2.4.4 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058825687,"data":"gcsfs 2025.3.0 requires fsspec==2025.3.0, but you have fsspec 2026.4.0 which is incompatible.\n"}
+,{"stream_name":"stderr","time":188.058829777,"data":"gradio 5.50.0 requires pillow\u003c12.0,\u003e=8.0, but you have pillow 12.2.0 which is incompatible.\n"}
+,{"stream_name":"stdout","time":189.48453375,"data":"Found existing installation: pillow 12.2.0\n"}
+,{"stream_name":"stdout","time":189.4940854,"data":"Uninstalling pillow-12.2.0:\n"}
+,{"stream_name":"stdout","time":189.496286593,"data":"  Successfully uninstalled pillow-12.2.0\n"}
+,{"stream_name":"stdout","time":189.687273975,"data":"Found existing installation: pillow 12.2.0\n"}
+,{"stream_name":"stdout","time":189.687296625,"data":"Uninstalling pillow-12.2.0:\n"}
+,{"stream_name":"stdout","time":189.68730118,"data":"  Successfully uninstalled pillow-12.2.0\n"}
+,{"stream_name":"stderr","time":190.578282266,"data":"WARNING: Skipping Pillow-SIMD as it is not installed.\n"}
+,{"stream_name":"stderr","time":190.780572999,"data":"WARNING: Skipping Pillow-SIMD as it is not installed.\n"}
+,{"stream_name":"stderr","time":190.780608279,"data":"\n"}
+,{"stream_name":"stderr","time":190.780628974,"data":"WARNING: Skipping Pillow-SIMD as it is not installed.\n"}
+,{"stream_name":"stdout","time":192.399522249,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.6/6.6 MB 129.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":192.601520104,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.6/6.6 MB 129.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stderr","time":194.8163662,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":194.816393755,"data":"ydata-profiling 4.18.4 requires numpy\u003c2.4,\u003e=1.22, but you have numpy 2.4.4 which is incompatible.\n"}
+,{"stream_name":"stderr","time":194.816398701,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":195.018698469,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":195.01873833,"data":"ydata-profiling 4.18.4 requires numpy\u003c2.4,\u003e=1.22, but you have numpy 2.4.4 which is incompatible.\n"}
+,{"stream_name":"stderr","time":195.018743369,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":195.018746166,"data":"\n"}
+,{"stream_name":"stderr","time":195.01874854,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":195.018751799,"data":"ydata-profiling 4.18.4 requires numpy\u003c2.4,\u003e=1.22, but you have numpy 2.4.4 which is incompatible.\n"}
+,{"stream_name":"stderr","time":195.018754531,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stdout","time":196.640247992,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 60.9/60.9 kB 2.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":196.842321521,"data":"     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 60.9/60.9 kB 2.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":197.000724029,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 19.2/19.2 MB 83.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":197.202785568,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 19.2/19.2 MB 83.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stderr","time":201.5904288,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":201.59045404,"data":"bigframes 2.39.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":201.590459578,"data":"google-colab 1.0.0 requires jupyter-server==2.14.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.590463528,"data":"google-colab 1.0.0 requires pandas==2.2.2, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.59048037,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.59048437,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.710282775,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":201.710321035,"data":"bigframes 2.39.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":201.710327254,"data":"google-colab 1.0.0 requires jupyter-server==2.14.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.710331912,"data":"google-colab 1.0.0 requires pandas==2.2.2, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.710336362,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.710340527,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.710345559,"data":"\n"}
+,{"stream_name":"stderr","time":201.710349897,"data":"ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.\n"}
+,{"stream_name":"stderr","time":201.710354255,"data":"bigframes 2.39.0 requires google-cloud-bigquery-storage\u003c3.0.0,\u003e=2.30.0, which is not installed.\n"}
+,{"stream_name":"stderr","time":201.710359332,"data":"google-colab 1.0.0 requires jupyter-server==2.14.0, but you have jupyter-server 2.12.5 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.710363807,"data":"google-colab 1.0.0 requires pandas==2.2.2, but you have pandas 2.3.3 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.710368427,"data":"dopamine-rl 4.1.2 requires gym\u003c=0.25.2, but you have gym 0.26.2 which is incompatible.\n"}
+,{"stream_name":"stderr","time":201.710372653,"data":"moviepy 1.0.3 requires decorator\u003c5.0,\u003e=4.0.2, but you have decorator 5.3.1 which is incompatible.\n"}
+,{"stream_name":"stdout","time":205.036374744,"data":"Downloading: \"https://download.pytorch.org/models/inception_v3_google-0cc3c7bd.pth\" to /root/.cache/torch/hub/checkpoints/inception_v3_google-0cc3c7bd.pth\n"}
+,{"stream_name":"stderr","time":205.037187257,"data":"\r  0%|          | 0.00/104M [00:00\u003c?, ?B/s]\n"}
+,{"stream_name":"stderr","time":205.139426565,"data":"\r  0%|          | 0.00/104M [00:00\u003c?, ?B/s]\r 12%|█▏        | 12.0M/104M [00:00\u003c00:00, 124MB/s]\n"}
+,{"stream_name":"stderr","time":205.239796669,"data":"\r 12%|█▏        | 12.0M/104M [00:00\u003c00:00, 124MB/s]\r 31%|███       | 32.2M/104M [00:00\u003c00:00, 175MB/s]\n"}
+,{"stream_name":"stderr","time":205.340264106,"data":"\r 31%|███       | 32.2M/104M [00:00\u003c00:00, 175MB/s]\r 51%|█████     | 52.8M/104M [00:00\u003c00:00, 193MB/s]\n"}
+,{"stream_name":"stderr","time":205.440646724,"data":"\r 51%|█████     | 52.8M/104M [00:00\u003c00:00, 193MB/s]\r 70%|███████   | 73.1M/104M [00:00\u003c00:00, 201MB/s]\n"}
+,{"stream_name":"stderr","time":205.541353435,"data":"\r 70%|███████   | 73.1M/104M [00:00\u003c00:00, 201MB/s]\r 89%|████████▉ | 92.9M/104M [00:00\u003c00:00, 203MB/s]\n"}
+,{"stream_name":"stderr","time":205.595705668,"data":"\r 89%|████████▉ | 92.9M/104M [00:00\u003c00:00, 203MB/s]\r100%|██████████| 104M/104M [00:00\u003c00:00, 195MB/s] \n"}
+,{"stream_name":"stderr","time":205.641907487,"data":"\r100%|██████████| 104M/104M [00:00\u003c00:00, 195MB/s] \n"}
+,{"stream_name":"stderr","time":205.641945353,"data":"\n"}
+,{"stream_name":"stderr","time":205.641949227,"data":"\n"}
+,{"stream_name":"stdout","time":205.885292475,"data":"device: cuda | max epochs per model: 60\n"}
+,{"stream_name":"stderr","time":206.365847461,"data":"\r  0%|          | 0.00/9.91M [00:00\u003c?, ?B/s]\n"}
+,{"stream_name":"stderr","time":206.488960086,"data":"\r  0%|          | 0.00/9.91M [00:00\u003c?, ?B/s]\r  1%|          | 65.5k/9.91M [00:00\u003c00:18, 535kB/s]\n"}
+,{"stream_name":"stderr","time":206.611028774,"data":"\r  1%|          | 65.5k/9.91M [00:00\u003c00:18, 535kB/s]\r  2%|▏         | 164k/9.91M [00:00\u003c00:14, 694kB/s] \n"}
+,{"stream_name":"stderr","time":206.733261241,"data":"\r  2%|▏         | 164k/9.91M [00:00\u003c00:14, 694kB/s] \r  4%|▍         | 426k/9.91M [00:00\u003c00:06, 1.36MB/s]\n"}
+,{"stream_name":"stderr","time":206.855809509,"data":"\r  4%|▍         | 426k/9.91M [00:00\u003c00:06, 1.36MB/s]\r 17%|█▋        | 1.67M/9.91M [00:00\u003c00:01, 4.85MB/s]\n"}
+,{"stream_name":"stderr","time":206.977863144,"data":"\r 17%|█▋        | 1.67M/9.91M [00:00\u003c00:01, 4.85MB/s]\r 60%|██████    | 5.96M/9.91M [00:00\u003c00:00, 15.8MB/s]\n"}
+,{"stream_name":"stderr","time":207.042242032,"data":"\r 60%|██████    | 5.96M/9.91M [00:00\u003c00:00, 15.8MB/s]\r100%|██████████| 9.91M/9.91M [00:00\u003c00:00, 14.7MB/s]\n"}
+,{"stream_name":"stderr","time":207.056829612,"data":"\r100%|██████████| 9.91M/9.91M [00:00\u003c00:00, 14.7MB/s]\n"}
+,{"stream_name":"stderr","time":207.056855688,"data":"\n"}
+,{"stream_name":"stderr","time":207.056860348,"data":"\n"}
+,{"stream_name":"stderr","time":207.790839139,"data":"\r  0%|          | 0.00/28.9k [00:00\u003c?, ?B/s]\n"}
+,{"stream_name":"stderr","time":207.851577937,"data":"\r  0%|          | 0.00/28.9k [00:00\u003c?, ?B/s]\r100%|██████████| 28.9k/28.9k [00:00\u003c00:00, 482kB/s]\n"}
+,{"stream_name":"stderr","time":207.991689936,"data":"\r100%|██████████| 28.9k/28.9k [00:00\u003c00:00, 482kB/s]\n"}
+,{"stream_name":"stderr","time":207.99172931,"data":"\n"}
+,{"stream_name":"stderr","time":207.991733158,"data":"\n"}
+,{"stream_name":"stderr","time":208.353795997,"data":"\r  0%|          | 0.00/1.65M [00:00\u003c?, ?B/s]\n"}
+,{"stream_name":"stderr","time":208.478222281,"data":"\r  0%|          | 0.00/1.65M [00:00\u003c?, ?B/s]\r  4%|▍         | 65.5k/1.65M [00:00\u003c00:02, 530kB/s]\n"}
+,{"stream_name":"stderr","time":208.604056085,"data":"\r  4%|▍         | 65.5k/1.65M [00:00\u003c00:02, 530kB/s]\r  8%|▊         | 131k/1.65M [00:00\u003c00:02, 526kB/s] \n"}
+,{"stream_name":"stderr","time":208.72823426,"data":"\r  8%|▊         | 131k/1.65M [00:00\u003c00:02, 526kB/s] \r 24%|██▍       | 393k/1.65M [00:00\u003c00:01, 1.25MB/s]\n"}
+,{"stream_name":"stderr","time":208.853287994,"data":"\r 24%|██▍       | 393k/1.65M [00:00\u003c00:01, 1.25MB/s]\r 93%|█████████▎| 1.54M/1.65M [00:00\u003c00:00, 4.39MB/s]\n"}
+,{"stream_name":"stderr","time":208.854560109,"data":"\r 93%|█████████▎| 1.54M/1.65M [00:00\u003c00:00, 4.39MB/s]\r100%|██████████| 1.65M/1.65M [00:00\u003c00:00, 3.30MB/s]\n"}
+,{"stream_name":"stderr","time":208.928478115,"data":"\r100%|██████████| 1.65M/1.65M [00:00\u003c00:00, 3.30MB/s]\n"}
+,{"stream_name":"stderr","time":208.928514923,"data":"\n"}
+,{"stream_name":"stderr","time":208.928518884,"data":"\n"}
+,{"stream_name":"stderr","time":209.344704524,"data":"\r  0%|          | 0.00/4.54k [00:00\u003c?, ?B/s]\n"}
+,{"stream_name":"stderr","time":209.34585468,"data":"\r  0%|          | 0.00/4.54k [00:00\u003c?, ?B/s]\r100%|██████████| 4.54k/4.54k [00:00\u003c00:00, 6.71MB/s]\n"}
+,{"stream_name":"stdout","time":209.476029273,"data":"seed=0 T=100\n"}
+,{"stream_name":"stderr","time":209.476957784,"data":"\r100%|██████████| 4.54k/4.54k [00:00\u003c00:00, 6.71MB/s]\n"}
+,{"stream_name":"stderr","time":209.476983052,"data":"\n"}
+,{"stream_name":"stderr","time":209.476987754,"data":"\n"}
+,{"stream_name":"stdout","time":301.409065815,"data":"    epoch  10: FID=144.5\n"}
+,{"stream_name":"stdout","time":453.383183057,"data":"    epoch  30: FID=122.7\n"}
+,{"stream_name":"stdout","time":666.443247467,"data":"    epoch  60: FID=99.3\n"}
+,{"stream_name":"stdout","time":666.443326557,"data":"seed=0 T=200\n"}
+,{"stream_name":"stdout","time":757.488485551,"data":"    epoch  10: FID=145.2\n"}
+,{"stream_name":"stdout","time":912.756273324,"data":"    epoch  30: FID=120.7\n"}
+,{"stream_name":"stdout","time":1130.406188011,"data":"    epoch  60: FID=74.5\n"}
+,{"stream_name":"stdout","time":1130.406261511,"data":"seed=0 T=400\n"}
+,{"stream_name":"stdout","time":1237.341394961,"data":"    epoch  10: FID=151.4\n"}
+,{"stream_name":"stdout","time":1406.09518633,"data":"    epoch  30: FID=115.2\n"}
+,{"stream_name":"stdout","time":1635.942963429,"data":"    epoch  60: FID=70.4\n"}
+,{"stream_name":"stdout","time":1635.943006784,"data":"seed=0 T=700\n"}
+,{"stream_name":"stdout","time":1763.733103969,"data":"    epoch  10: FID=132.8\n"}
+,{"stream_name":"stdout","time":1954.462012912,"data":"    epoch  30: FID=95.3\n"}
+,{"stream_name":"stdout","time":2208.439681168,"data":"    epoch  60: FID=65.1\n"}
+,{"stream_name":"stdout","time":2208.439729792,"data":"seed=0 T=1000\n"}
+,{"stream_name":"stdout","time":2357.204056217,"data":"    epoch  10: FID=140.7\n"}
+,{"stream_name":"stdout","time":2569.563647323,"data":"    epoch  30: FID=103.8\n"}
+,{"stream_name":"stdout","time":2851.153438876,"data":"    epoch  60: FID=76.6\n"}
+,{"stream_name":"stdout","time":2851.153513853,"data":"seed=1 T=100\n"}
+,{"stream_name":"stdout","time":2937.451754477,"data":"    epoch  10: FID=155.8\n"}
+,{"stream_name":"stdout","time":3087.213473605,"data":"    epoch  30: FID=124.2\n"}
+,{"stream_name":"stdout","time":3300.776269513,"data":"    epoch  60: FID=87.6\n"}
+,{"stream_name":"stdout","time":3300.77631634,"data":"seed=1 T=200\n"}
+,{"stream_name":"stdout","time":3395.01889481,"data":"    epoch  10: FID=144.2\n"}
+,{"stream_name":"stdout","time":3554.091081254,"data":"    epoch  30: FID=125.3\n"}
+,{"stream_name":"stdout","time":3776.46636219,"data":"    epoch  60: FID=73.5\n"}
+,{"stream_name":"stdout","time":3776.466418612,"data":"seed=1 T=400\n"}
+,{"stream_name":"stdout","time":3885.880375641,"data":"    epoch  10: FID=144.8\n"}
+,{"stream_name":"stdout","time":4061.973140737,"data":"    epoch  30: FID=101.5\n"}
+,{"stream_name":"stdout","time":4303.199473255,"data":"    epoch  60: FID=66.7\n"}
+,{"stream_name":"stdout","time":4303.199534001,"data":"seed=1 T=700\n"}
+,{"stream_name":"stdout","time":4433.497918033,"data":"    epoch  10: FID=149.1\n"}
+,{"stream_name":"stdout","time":4629.511772123,"data":"    epoch  30: FID=108.2\n"}
+,{"stream_name":"stdout","time":4885.607888771,"data":"    epoch  60: FID=65.2\n"}
+,{"stream_name":"stdout","time":4885.607946796,"data":"seed=1 T=1000\n"}
+,{"stream_name":"stdout","time":5035.568256069,"data":"    epoch  10: FID=161.2\n"}
+,{"stream_name":"stdout","time":5248.606336293,"data":"    epoch  30: FID=112.6\n"}
+,{"stream_name":"stdout","time":5526.419586354,"data":"    epoch  60: FID=63.7\n"}
+,{"stream_name":"stdout","time":5526.419622495,"data":"seed=2 T=100\n"}
+,{"stream_name":"stdout","time":5616.973366923,"data":"    epoch  10: FID=149.9\n"}
+,{"stream_name":"stdout","time":5772.993541185,"data":"    epoch  30: FID=105.2\n"}
+,{"stream_name":"stdout","time":5991.462555691,"data":"    epoch  60: FID=65.9\n"}
+,{"stream_name":"stdout","time":5991.462598965,"data":"seed=2 T=200\n"}
+,{"stream_name":"stdout","time":6086.321226961,"data":"    epoch  10: FID=145.0\n"}
+,{"stream_name":"stdout","time":6249.626603889,"data":"    epoch  30: FID=86.1\n"}
+,{"stream_name":"stdout","time":6476.522661605,"data":"    epoch  60: FID=59.3\n"}
+,{"stream_name":"stdout","time":6476.522715498,"data":"seed=2 T=400\n"}
+,{"stream_name":"stdout","time":6582.838031605,"data":"    epoch  10: FID=136.2\n"}
+,{"stream_name":"stdout","time":6755.123200523,"data":"    epoch  30: FID=86.8\n"}
+,{"stream_name":"stdout","time":6990.21243005,"data":"    epoch  60: FID=55.7\n"}
+,{"stream_name":"stdout","time":6990.212473837,"data":"seed=2 T=700\n"}
+,{"stream_name":"stdout","time":7118.118236424,"data":"    epoch  10: FID=138.0\n"}
+,{"stream_name":"stdout","time":7311.272692131,"data":"    epoch  30: FID=76.8\n"}
+,{"stream_name":"stdout","time":7570.201897001,"data":"    epoch  60: FID=46.8\n"}
+,{"stream_name":"stdout","time":7570.201934495,"data":"seed=2 T=1000\n"}
+,{"stream_name":"stdout","time":7718.668575023,"data":"    epoch  10: FID=143.7\n"}
+,{"stream_name":"stdout","time":7925.105898121,"data":"    epoch  30: FID=82.2\n"}
+,{"stream_name":"stdout","time":8204.21021318,"data":"    epoch  60: FID=51.2\n"}
+,{"stream_name":"stdout","time":8204.266482476,"data":"\n"}
+,{"stream_name":"stdout","time":8204.266506768,"data":"=== Budget 10 epochs: FID mean +/- std over seeds ===\n"}
+,{"stream_name":"stdout","time":8204.266511679,"data":"  T= 100:  150.0 +/-  5.6   runs=[144.5, 155.8, 149.9]\n"}
+,{"stream_name":"stdout","time":8204.266516058,"data":"  T= 200:  144.8 +/-  0.5   runs=[145.2, 144.2, 145.0]\n"}
+,{"stream_name":"stdout","time":8204.266520299,"data":"  T= 400:  144.1 +/-  7.6   runs=[151.4, 144.8, 136.2]\n"}
+,{"stream_name":"stdout","time":8204.266525733,"data":"  T= 700:  139.9 +/-  8.3   runs=[132.8, 149.1, 138.0]\n"}
+,{"stream_name":"stdout","time":8204.26653103,"data":"  T=1000:  148.5 +/- 11.1   runs=[140.7, 161.2, 143.7]\n"}
+,{"stream_name":"stdout","time":8204.26653666,"data":"\n"}
+,{"stream_name":"stdout","time":8204.266541415,"data":"=== Budget 30 epochs: FID mean +/- std over seeds ===\n"}
+,{"stream_name":"stdout","time":8204.266545672,"data":"  T= 100:  117.4 +/- 10.6   runs=[122.7, 124.2, 105.2]\n"}
+,{"stream_name":"stdout","time":8204.266550249,"data":"  T= 200:  110.7 +/- 21.4   runs=[120.7, 125.3, 86.1]\n"}
+,{"stream_name":"stdout","time":8204.266554467,"data":"  T= 400:  101.2 +/- 14.2   runs=[115.2, 101.5, 86.8]\n"}
+,{"stream_name":"stdout","time":8204.266558614,"data":"  T= 700:   93.4 +/- 15.8   runs=[95.3, 108.2, 76.8]\n"}
+,{"stream_name":"stdout","time":8204.266562759,"data":"  T=1000:   99.5 +/- 15.7   runs=[103.8, 112.6, 82.2]\n"}
+,{"stream_name":"stdout","time":8204.266567324,"data":"\n"}
+,{"stream_name":"stdout","time":8204.26657131,"data":"=== Budget 60 epochs: FID mean +/- std over seeds ===\n"}
+,{"stream_name":"stdout","time":8204.266575456,"data":"  T= 100:   84.3 +/- 16.9   runs=[99.3, 87.6, 65.9]\n"}
+,{"stream_name":"stdout","time":8204.266579658,"data":"  T= 200:   69.1 +/-  8.5   runs=[74.5, 73.5, 59.3]\n"}
+,{"stream_name":"stdout","time":8204.266596136,"data":"  T= 400:   64.3 +/-  7.7   runs=[70.4, 66.7, 55.7]\n"}
+,{"stream_name":"stdout","time":8204.266599574,"data":"  T= 700:   59.0 +/- 10.6   runs=[65.1, 65.2, 46.8]\n"}
+,{"stream_name":"stdout","time":8204.266602902,"data":"  T=1000:   63.8 +/- 12.7   runs=[76.6, 63.7, 51.2]\n"}
+,{"stream_name":"stdout","time":8204.266606581,"data":"\n"}
+,{"stream_name":"stdout","time":8204.266610596,"data":"=== Combined table: rows = budget (epochs), cols = T, cells = FID mean+/-std ===\n"}
+,{"stream_name":"stdout","time":8204.266614798,"data":"epochs\\T           100           200           400           700          1000\n"}
+,{"stream_name":"stdout","time":8204.266619097,"data":"    10   150.0+/-5.6   144.8+/-0.5   144.1+/-7.6   139.9+/-8.3   148.5+/-11.1\n"}
+,{"stream_name":"stdout","time":8204.266622554,"data":"    30   117.4+/-10.6  110.7+/-21.4  101.2+/-14.2   93.4+/-15.8   99.5+/-15.7\n"}
+,{"stream_name":"stdout","time":8204.266625941,"data":"    60    84.3+/-16.9   69.1+/-8.5    64.3+/-7.7    59.0+/-10.6   63.8+/-12.7\n"}
+,{"stream_name":"stdout","time":8204.266629411,"data":"\n"}
+,{"stream_name":"stdout","time":8204.266632551,"data":"Saved budget_sweep.json\n"}
+,{"stream_name":"stderr","time":8207.999524406,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":8207.999556615,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":8208.156627578,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":8208.156650817,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":8208.778431025,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":8209.109390159,"data":"[NbConvertApp] Writing 35413 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":8211.657013197,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":8212.561556736,"data":"[NbConvertApp] Writing 366213 bytes to __results__.html\n"}
+]

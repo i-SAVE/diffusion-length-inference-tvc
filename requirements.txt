@@ -1,0 +1,9 @@
+# Pinned to the environment in which the reported numbers were produced.
+# Exact versions of the host runtime are recorded in results/logs/environment.json
+# (regenerate with: python scripts/collect_env.py).
+torch>=2.0
+torchvision>=0.15
+numpy>=1.24
+matplotlib>=3.7
+umap-learn>=0.5      # only for the auxiliary UMAP figure (Section 7)
+scikit-learn>=1.3    # dependency of umap-learn

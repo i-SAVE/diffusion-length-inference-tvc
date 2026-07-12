@@ -1,0 +1,12 @@
+# CIFAR-10: DDPM vs DDIM across restoration-step counts (Table 3 / Fig. 7)
+experiment: cifar10_sampler_sweep
+anchor_model: {T: 1000, seed: 0, epochs: 30}   # reused from the length sweep
+restoration_steps: [1000, 500, 200, 100, 50]
+step_subset: uniform grid over {0, ..., T-1} (torch.linspace), traversed noisiest -> cleanest
+samplers:
+  DDPM: stochastic; keeps the learned noise term at every retained step
+  DDIM: deterministic non-Markovian update (Song et al., ICLR 2021)
+evaluation:
+  metric: FID
+  n_real: 2000
+  n_generated: 2000
