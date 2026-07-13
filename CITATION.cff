@@ -11,10 +11,10 @@ authors:
   - family-names: Isaev
     given-names: Sh. M.
 license: MIT
-version: 1.0.1
+version: 1.0.2
 date-released: 2026-07-11
 repository-code: 'https://github.com/i-SAVE/diffusion-length-inference-tvc'
-doi: '10.5281/zenodo.21320562'
+doi: '10.5281/zenodo.21320561'   # concept DOI (always resolves to latest version)
 preferred-citation:
   type: article
   authors:
