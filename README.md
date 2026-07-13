@@ -179,8 +179,8 @@ python scripts/export_samples.py --dataset cifar --anchor --sampler ddim --steps
 Two DOIs are available, per [Zenodo's versioning guidance](https://help.zenodo.org/):
 
 - **To cite the exact snapshot that produced the numbers in the paper** (recommended
-  for reproducibility), use the version-specific DOI for release **v1.0.2**:
-  <https://doi.org/10.5281/zenodo.21321805>
+  for reproducibility), use the version-specific DOI for release **v1.0.3**:
+  <https://doi.org/10.5281/zenodo.21330570>
 - **To cite the software project in general**, independent of version, use the
   concept DOI (always resolves to the latest release):
   <https://doi.org/10.5281/zenodo.21320561>
@@ -192,7 +192,7 @@ Two DOIs are available, per [Zenodo's versioning guidance](https://help.zenodo.o
                Algorithm in Denoising-Diffusion Image Synthesis: A Controlled
                Empirical Study on MNIST and CIFAR-10"},
   year      = {2026},
-  version   = {v1.0.2},
+  version   = {v1.0.3},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.21320561},
   url       = {https://doi.org/10.5281/zenodo.21320561}
